@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **Laravel Project**
-- 🌱 I’m currently learning [**Laravel**](https:://laravel.com) FrameWork
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) FrameWork
 
 #### Skills
 
