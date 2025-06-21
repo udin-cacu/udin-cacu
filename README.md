@@ -1,6 +1,6 @@
 ## Hallo Word! I'm Syamsudin 👋 🐱‍👤
 
-[![syamsudin](img/gambar2.PNG)](https://udin-cacu.github.io/portfolioudin.github.io/)
+![syamsudin](img/gambar2.png)
 <!--
 **udin-cacu/udin-cacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
