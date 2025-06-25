@@ -1,4 +1,4 @@
-## Hallo Word! I'm Syamsudin 👋 🐱‍👤
+## I'm Syamsudin 👋 🐱‍👤
 
 ![syamsudin](img/gambar2.png)
 <!--
